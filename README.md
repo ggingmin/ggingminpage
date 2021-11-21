@@ -4,3 +4,10 @@
 ## __[Github](https://github.com/ggingmin)__
 
 ## __[Linkedin](https://www.linkedin.com/in/ggingmin/)__
+
+
+## OSS License
+* **knote-java**
+  * https://github.com/vercel/next.js
+  * Copyright (c) 2021 Vercel, Inc.
+  * MIT License
