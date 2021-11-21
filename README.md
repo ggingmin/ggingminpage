@@ -7,7 +7,7 @@
 
 
 ## OSS License
-* **knote-java**
+* **next.js**
   * https://github.com/vercel/next.js
   * Copyright (c) 2021 Vercel, Inc.
   * MIT License
